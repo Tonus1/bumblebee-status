@@ -82,7 +82,7 @@ makepkg -sicr
 pip install --user bumblebee-status
 ```
 
-There is also a SlackBuild available here: [slackbuilds:bumblebee-status](http://slackbuilds.org/repository/14.2/desktop/bumblebee-status/) - many thanks to [@Tonus1](https://github.com/Tonus1)!
+There is also a SlackBuild available here: [slackbuilds:bumblebee-status](http://slackbuilds.org/repository/15.0/desktop/bumblebee-status/?search=bumblebee-status) - many thanks to [@Tonus1](https://github.com/Tonus1)!
 
 An ebuild, for Gentoo Linux, is available on [gallifrey overlay](https://github.com/fedeliallalinea/gallifrey/tree/master/x11-misc/bumblebee-status). Instructions for adding the overlay can be found [here](https://github.com/fedeliallalinea/gallifrey/blob/master/README.md).
 
